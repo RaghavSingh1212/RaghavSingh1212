@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**RaghavSingh1212/RaghavSingh1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about exploring new technologies and the ever-evolving field of computer science
 
 Here are some ideas to get you started:
 

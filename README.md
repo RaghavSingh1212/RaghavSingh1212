@@ -3,7 +3,6 @@
 
 I am passionate about exploring new technologies and the ever-evolving field of computer science
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on RankPath
 - 🌱 I’m currently learning Machine Learning, System Design & Distributed System

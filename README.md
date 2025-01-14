@@ -1,4 +1,4 @@
-## Hi there 👋 this is Raghav Singh
+## Hi there 👋
 
 
 I am passionate about exploring new technologies and the ever-evolving field of computer science

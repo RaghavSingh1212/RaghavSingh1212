@@ -10,4 +10,4 @@ I am passionate about exploring new technologies and the ever-evolving field of 
 - 📫 How to reach me: rsingh77@ucsc.edu
 - ⚜️Things I like to do/ I would want to do outside computers: Playing Guitar, Chess, Gym
 - ⚡Fun fact about me:  Getting suffocated by my blanket while sleeping
-- Portfolio : https://port-l4036gbce-raghav-singhs-projects-61eb3921.vercel.app
+- Portfolio : https://port-2g9v4joyi-raghav-singhs-projects-61eb3921.vercel.app

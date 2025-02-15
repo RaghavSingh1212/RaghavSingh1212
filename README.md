@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋<br><br>I am passionate about exploring new technologies and the ever-evolving field of computer science<br><br>🔭 I’m currently working on RankPath - a rank predictor app<br>🌱 I’m currently learning Machine Learning, System Design & Distributed System<br>⚡Languages I am fluent with: Python, JavaScript, C.<br>📫 How to reach me: rsingh77@ucsc.edu<br>⚜️Things I like to do/ I would want to do outside computers: Playing Guitar, Chess, Gym<br>⚡Fun fact about me:  Getting suffocated by my blanket while sleeping
+ Hi there 👋<br><br>I am passionate about exploring new technologies and the ever-evolving field of computer science<br><br>🔭 I’m currently working on RankPath - a rank predictor app<br>🌱 I’m currently learning Machine Learning, System Design & Distributed System<br>⚡Languages I am fluent with: Python, JavaScript, C.<br>📫 How to reach me: rsingh77@ucsc.edu<br>⚜️Things I like to do/ I would want to do outside computers: Playing Guitar, Chess, Gym<br>⚡Fun fact about me:  Getting suffocated by my blanket while sleeping
 
 
 # 💻 Tech Stack:

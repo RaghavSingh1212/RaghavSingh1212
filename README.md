@@ -8,5 +8,3 @@ I am passionate about exploring new technologies and the ever-evolving field of 
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavSingh1212&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-

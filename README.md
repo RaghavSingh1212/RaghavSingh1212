@@ -1,7 +1,7 @@
 # Hi there 👋
 I am passionate about exploring new technologies and the ever-evolving field of computer science.<br><br>
 
-🔭 I’m currently working on **RankPath** – a rank predictor app  
+🔭 I’m currently working on **JobPilot** – an application for automated job application plus reach out  
 🌱 I’m currently learning **Machine Learning**, **System Design**, & **Distributed Systems**  
 ⚡ Languages I am fluent with: **Python**, **JavaScript**, **C**  
 📫 How to reach me: **rsingh77@ucsc.edu**  

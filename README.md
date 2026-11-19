@@ -6,8 +6,7 @@ I am passionate about exploring new technologies and the ever-evolving field of 
 ⚡ Languages I am fluent with: **Python**, **JavaScript**, **C**  
 📫 How to reach me: **rsingh77@ucsc.edu**  
 🌐 Check out my portfolio: [www.raghavsingh.info](https://www.raghavsingh.info)  
-⚜️ Things I like to do outside computers: **Playing Guitar**, **Chess**, **Gym**  
-😄 Fun fact about me: *Getting suffocated by my blanket while sleeping*  
+⚜️ Things I like to do outside computers: **Playing Guitar**, **Chess**, **Gym**   
 
 ---
 

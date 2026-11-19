@@ -4,7 +4,7 @@ I am passionate about exploring new technologies and the ever-evolving field of 
 🔭 I’m currently working on **JobPilot** – an application for automated job application plus reach out  
 🌱 I’m currently learning **Machine Learning**, **System Design**, & **Distributed Systems**  
 ⚡ Languages I am fluent with: **Python**, **JavaScript**, **C**  
-📫 How to reach me: **rsingh77@ucsc.edu**  
+📫 How to reach me: **raghav.singh.swe@gmail.com**  
 🌐 Check out my portfolio: [www.raghavsingh.info](https://www.raghavsingh.info)  
 ⚜️ Things I like to do outside computers: **Playing Guitar**, **Chess**, **Gym**   
 
